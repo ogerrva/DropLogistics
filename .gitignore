@@ -1,0 +1,7 @@
+# Factorio local logs and temporary data
+*.log
+desktop.ini
+.DS_Store
+
+# Ignore zips (since you'll generate them for release)
+*.zip
